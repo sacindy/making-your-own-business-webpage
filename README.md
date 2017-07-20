@@ -2,10 +2,10 @@
 >Student project: "Creating your own product webpage"
 
 ## Become a Store Owner!
-<br>*You will be creating a web page that promotes and sells your product!  In this project, we will be woriking with soome basic **Javascript** and **HTML** concepts to understand how we can attach functionality to our **User Interface**. <br>
+<br>*You will be creating a web page that promotes and sells your product!  In this project, we will be woriking with soome basic  **HTML** concepts to understand how we can attach functionality to our **User Interface**. <br>
 
 ## Objective: 
->To create a simple web page using **HTML Elements**, **CSS Styles**, and **Javascript**.
+>To create a simple web page using **HTML Elements** and  **CSS Styles**.
 
 ## Prerequisites:  
 >In order to complete this project students must have the following:  
